@@ -4,35 +4,14 @@
 ## 项目简介
 主要功能包括用户的登录注册以及管理员对用户的管理，用户可以自行组队寻找志同道合的朋友。此项目是学习程序员鱼皮星球的项目仅用于学习和提升。
 
-主页：
+## 主要业务流程：
 
-![](https://yupi-picture-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20221023120231097.png)
-
-
-
-找伙伴：
-
-![](https://yupi-picture-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20221023120338802.png)
-
-
-
-组队功能：
-
-![](https://yupi-picture-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20221023120253418.png)
-
-
-
-创建队伍：
-
-![](https://yupi-picture-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20221023120311527.png)
-
-
-
-个人信息及修改：
-
-![img](https://yupi-picture-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20221023120321632.png)
-
-
+登录和注册
+用户管理（仅管理员）
+找伙伴
+组队功能
+创建队伍
+个人信息及修改
 
 这个该项目基本覆盖了企业开发中常见的需求以及对应的解决方案，比如登录注册、批量数据导入、信息检索展示、定时任务、资源抢占等。并且涵盖了分布式、并发编程、锁、事务、缓存、性能优化、幂等性、数据一致性、大数据、算法等后端程序员必须了解的知识与实践。
 
